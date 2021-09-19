@@ -1,4 +1,3 @@
 # word-file-generator
-How to generate a word file with JAVA
+How to generate a word file with JAVA by IMRAN AL MUNYEEM
 
-Article Page: https://www.swtestacademy.com/generate-word-document-with-java/
